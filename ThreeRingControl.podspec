@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "ThreeRingControl"
   s.version      = "1.0.0"
-  s.summary      = "A short description of ThreeRingControl."
+  s.summary      = "A short description of ThreeRingControl. This is a big example of this repository"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "This is a test"
 
-  s.homepage     = "http://EXAMPLE/ThreeRingControl"
+  s.homepage     = "http://Test/ThreeRingControl"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "URL", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/JoshCaro/ThreeRingControl.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
